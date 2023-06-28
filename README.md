@@ -1,2 +1,2 @@
-# uom_masters_project
-Masters final project (Dissertation Topic - Classification of User Stories for Software Development)
+## University Of Manchester MSc Data Science (CSDI Pathway) Dissertation Project
+Dissertation Topic - Classification of User Stories for Software Development
