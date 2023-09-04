@@ -1,0 +1,80 @@
+text,label
+"As an app developer aiming for low-resource environments, I want to build a text-based Solid chat tool.",Chat
+"As a community member, I want to create a Pod/RDF archive of gitter chat rooms relevant to the community.",Chat
+"As a governmental agency providing Pods for citizens who manage their data, I would like to provision Pods for citizens using an identity provided by a different governmental agency so that agencies do not need to duplicate effort",Authentication
+"As a existing Solid user, I would like to use my identity to register a Pod with another Provider so that I can have different Pods for different purposes, or to migrate data",Authentication
+"As a Solid Identity Provider, I would like it to be easy for my users to register with Pod Providers to increase the value of my IdP offering ",Authentication
+"As a Solid Identity Provider, I would like to easily register new users with an identity so that they quickly become customers",Authentication
+As a Solid user I want to chat with other Solid users so that I can communicate when not being physically in the same place,Chat
+As a Solid user I want to know when I am a Solid user and how so that I am able to be in control and actively consent,Authentication
+"As a Solid user, I’d like a sync app to automatically upload my contacts and pictures to my Pod, so I don’t have to enter them manually",Contacts
+"As a person, I'd like to see all data generated about me in one dashboard even if they're not on my Pod, so I have one place to get an overview of everything relevant to me",Aggregation
+As a Solid user who is not compus mentus I want my interests to be protected so that I am not taken advantage of when I am in a vulnerable position,Accessibility
+As a Solid user who is not computer savvy I want my data wishes to be respected so that my wishes are not compromised by my knowledge,Accessibility
+As a Solid user with visual impairments I want to be able to increase the font size so that I can continue using Solid functionality in the same way as other Solid users,Accessibility
+As a colour blind Solid user I want to use Solid normally e.g. have a monochrome interface with a highlight colour if essential so that I can use the same tools as other Solid users,Accessibility
+As a Solid user I want to read and navigate with voice control so that I can have access to the same tools as Solid users without read and navigations restrictions,Accessibility
+As a Solid user with motor problems I want to be able to navigate by data by keyboard so that I can have access to the same tools as Solid users without motor problems,Accessibility
+As a Solid user I want to be able to identify myself without association to the identifier so that I am not overdependent on an entity that I cannot control,Authentication
+As a Solid user I want to be able to identify myself online so that others can trust me in online interactions,Authentication
+As a Solid user I want to be able to sign up for an online identification with webid so that I can identify myself online,Authentication
+"As an operator of wifi for restaurants, hotels, etc I'd like to allow clients to use their WebID to log in so that we don't need to manage passwords or have a captive portal.",Authentication
+"As a developer/power user, I'd like to store and retrieve RDF resources preserving serialization-specific details (e.g. Turtle comments or prefixes).",Consistency
+"As a user, I want to use my WebID to register/authenticate everywhere on the Web, in and out of my pod",Authentication
+"As an IoT developer, I want to have a lightweight authentication mechanism so that my very small microcontrollers can authenticate themselves",Authentication
+"As a user with no connectivity (e.g. no phone, or an earthquake victim) I want to have an offline form factor (e.g. smart card, NFC pendant) with my ID and secure basic personal data so that I can receive services quickly and easily (e.g. food, shelter, medical aid).",Authentication
+"As a citizen, I want to use an identity verified by my government so that I can we can trust each other's identity in my country.",Authentication
+"As a citizen, I want to store my local council's contact details so that I can reach out for community issues.",Contacts
+"As a client, I want a secure chat so that I can discuss confidential matters with my lawyer.",Chat
+"As a client, I want to save my consultant's contact information so that I can get advice on my project.",Contacts
+"As a consumer, I want a feature to save manufacturer contact details so that I can inquire about product specifications when needed.",Contacts
+"As a customer, I want a chat option so that I can inquire about products and services.",Chat
+"As a customer, I want a chatbot so that I can get quick answers to common questions.",Chat
+"As a customer, I want to easily retrieve the store manager's contact for complaints about products.",Contacts
+"As a guest, I want an organized list of hotel services' contact numbers so that I can request services without searching.",Contacts
+"As a gamer, I want an in-game chat so that I can communicate with other players.",Chat
+"As a job applicant, I want to save HR's contact details so that I can follow up on my application status.",Contacts
+"As a member, I want a community chat so that I can interact with other members.",Chat
+"As a member, I want to have a directory of admin contacts so that I can report platform issues.",Contacts
+"As a parent, I want a monitored chat so that I can ensure my child's online safety.",Chat
+"As a passenger, I want a feature to save and update airline contact details so I can easily manage my flight bookings.",Contacts
+"As a patient, I want to store my doctor's contact information so that I can reach out when I experience symptoms.",Contacts
+"As a reader, I want a repository of authors' contact details so that I can provide feedback on their books.",Contacts
+"As a remote worker, I want a video chat so that I can have virtual meetings.",Chat
+"As a student, I want a class chat so that I can discuss assignments with classmates.",Chat
+"As a student, I want an organized contact list of professors so that I can reach out with questions outside of lectures.",Contacts
+"As a team member, I want a group chat so that I can collaborate with my colleagues.",Chat
+"As a tenant, I want a system to store and update my landlord's contact details for reporting maintenance issues.",Contacts
+"As a user, I want a chat feature so that I can communicate with other users in real time.",Chat
+"As a user, I want a chat history so that I can refer back to previous conversations.",Chat
+"As a user, I want an intuitive contact form on websites so that I can send inquiries without navigating away.",Contacts
+"As a user, I want a live chat feature so that I can get instant support.",Chat
+"As a user, I want a mobile chat so that I can communicate on the go.",Chat
+"As a user, I want a private chat so that I can have one-on-one conversations.",Chat
+"As a user, I want an encrypted chat so that my conversations remain private.",Chat
+"As a user, I want to categorize my contacts so that I can quickly find the person or organization I need.",Contacts
+"As a Developer, I want to aggregate data from different databases so that I can create a unified view of the data.",Aggregation
+"As a Project Manager, I want to see aggregated project progress reports so that I can make informed decisions.",Aggregation
+"As a Quality Assurance Engineer, I want to test the data aggregation process to ensure it's error-free.",Aggregation
+"As a Developer, I want to aggregate user feedback so that I can prioritize feature development.",Aggregation
+"As a Project Manager, I want to aggregate team performance metrics so that I can identify areas for improvement.",Aggregation
+"As a Quality Assurance Engineer, I want to verify the accuracy of aggregated data to ensure it's reliable.",Aggregation
+"As a Developer, I want to aggregate system logs so that I can troubleshoot issues effectively.",Aggregation
+"As a Project Manager, I want to aggregate resource usage data so that I can optimize resource allocation.",Aggregation
+"As a Quality Assurance Engineer, I want to test the system's ability to aggregate large volumes of data to ensure it's scalable.",Aggregation
+"As a Developer, I want to aggregate real-time data so that I can provide up-to-date information to users.",Aggregation
+"As a Developer, I want to ensure data consistency across all databases so that users always see accurate data.",Consistency
+"As a Project Manager, I want to ensure consistency in project deliverables so that we meet quality standards.",Consistency
+"As a Quality Assurance Engineer, I want to test for data consistency to ensure the system's reliability.",Consistency
+"As a Developer, I want to implement consistency checks in the code to prevent bugs.",Consistency
+"As a Project Manager, I want to ensure consistency in team processes so that we can work efficiently.",Consistency
+"As a Quality Assurance Engineer, I want to verify the consistency of user interfaces to ensure a good user experience.",Consistency
+"As a Developer, I want to ensure consistency in error handling so that I can troubleshoot issues effectively.",Consistency
+"As a Project Manager, I want to ensure consistency in communication so that everyone is on the same page.",Consistency
+"As a Quality Assurance Engineer, I want to check for consistency in system performance under different loads.",Consistency
+"As a Developer, I want to ensure consistency in system behavior across different platforms and devices.",Consistency
+"As a Developer, I want to ensure that our website is accessible to users with visual impairments so that everyone can use our services.",Accessibility
+"As a Quality Assurance Engineer, I want to test the system's compliance with accessibility standards to ensure we meet legal requirements.",Accessibility
+"As a Project Manager, I want to ensure that accessibility is considered in every phase of the project so that our product is inclusive.",Accessibility
+"As a Developer, I want to implement keyboard navigation in our application to improve accessibility for users with motor disabilities.",Accessibility
+"As a Quality Assurance Engineer, I want to verify that all elements of our application have appropriate alt text to improve screen reader accessibility.",Accessibility

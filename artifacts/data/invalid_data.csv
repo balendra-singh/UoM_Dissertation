@@ -1,0 +1,17 @@
+text,label,is_valid
+As a Solid user I want to know when I am a Solid user and how so that I am able to be in control and actively consent,Authentication,0
+which data to perform data analysis,Unknown,0
+"As UHOPE, I want to enable patients to cancel their appointments up until 12 hours before their appointment through the scheduling system, so that the receptionist has enough time to reschedule the doctor",Unknown,0
+"As UHOPE, I want to bill the patient for the month they come in even though the bill is send out a month later, so that the bill corresponds to when the patient came in",Unknown,0
+"As UHOPE, I want to have at least one back-up at all times of every piece of information in the entire system, so that the data is always available even if something happens to the system",Unknown,0
+"As a Mike, I want to be able to see some metrics on use of the game, so that I can see how much it is being used.",Unknown,0
+Auditing & Reporting.,Unknown,0
+bidirectionally with the repository.,Unknown,0
+to support data migration integrity testing.,Unknown,0
+"As IFA, I want the system to be localizable so that it can accommodate different local regula-tions, languages, currencies and time zone",Unknown,0
+"I want to save the simulator data (map, traffic and heatmap) of every moment coupled to that specific time, so that I can look into them at a later moment",Unknown,0
+"I want to save the environmental measures of every moment coupled to that specific time, so that I can look into them at a later moment",Unknown,0
+I want to be able to select a specific period of time to see the “data” from,Unknown,0
+"I want to be able to see compare the data from 2 different times next to each other, so that I can compare the 2 situations with each other",Unknown,0
+I want to use historic data to compare multiple situations to compare the results of 2 different solutions that we have built,Unknown,0
+"I want to be able to perform repeatable analysis for situations that are similar, so that the workflow is accelerated",Unknown,0
